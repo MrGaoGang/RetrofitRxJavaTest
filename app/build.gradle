@@ -4,7 +4,7 @@ android {
     compileSdkVersion 23
     buildToolsVersion "26.0.2"
     defaultConfig {
-        applicationId "mrgao.com.androidtest"
+        applicationId "mrgao.com.retrofitText"
         minSdkVersion 19
         targetSdkVersion 23
         versionCode 1
